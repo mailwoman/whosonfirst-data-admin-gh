@@ -23,6 +23,12 @@
     "lbl:latitude":5.615326,
     "lbl:longitude":-2.278301,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"The union of the Who's On First county records Ahanta West (1108759993), Jomoro (1108760001), Mpohor Wassa East (1108760005), Nzema East (1108760007), Shama Ahanta East (1108760011), Wassa Amenfi (1108760015), Wassa West (1108760017). Each member is assigned to the region that GeoNames files most of the populated places inside its boundary under, counted on 2026-11-26.",
+            "property":"geometry"
+        }
+    ],
     "mps:latitude":5.738712,
     "mps:longitude":-2.361939,
     "mz:hierarchy_label":1,
@@ -355,7 +361,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1795728846,
+    "wof:lastmodified":1795729307,
     "wof:name":"Western",
     "wof:parent_id":85632189,
     "wof:placetype":"region",
